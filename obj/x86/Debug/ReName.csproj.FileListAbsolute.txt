@@ -1,0 +1,16 @@
+D:\2100\MyProject\Tool\ReName\bin\Debug\ReName.exe
+D:\2100\MyProject\Tool\ReName\bin\Debug\ReName.pdb
+D:\2100\MyProject\Tool\ReName\obj\x86\Debug\ReName.Form1.resources
+D:\2100\MyProject\Tool\ReName\obj\x86\Debug\ReName.Properties.Resources.resources
+D:\2100\MyProject\Tool\ReName\obj\x86\Debug\ReName.csproj.GenerateResource.Cache
+D:\2100\MyProject\Tool\ReName\obj\x86\Debug\ReName.exe
+D:\2100\MyProject\Tool\ReName\obj\x86\Debug\ReName.pdb
+D:\2100\MyProject\Tool\ReName\obj\x86\Debug\ReName.csprojResolveAssemblyReference.cache
+D:\GitHub\Rename\obj\x86\Debug\ReName.exe
+D:\GitHub\Rename\obj\x86\Debug\ReName.pdb
+D:\GitHub\Rename\bin\Debug\ReName.exe
+D:\GitHub\Rename\bin\Debug\ReName.pdb
+D:\GitHub\Rename\obj\x86\Debug\ReName.csprojResolveAssemblyReference.cache
+D:\GitHub\Rename\obj\x86\Debug\ReName.Form1.resources
+D:\GitHub\Rename\obj\x86\Debug\ReName.Properties.Resources.resources
+D:\GitHub\Rename\obj\x86\Debug\ReName.csproj.GenerateResource.Cache
